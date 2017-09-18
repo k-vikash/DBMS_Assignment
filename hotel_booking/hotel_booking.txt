@@ -1,6 +1,7 @@
 Entities : Hotel, customer
 
 Strong entities:- Hotel, customer
+Because Hotel and customer both can exist without each other. So, both are strong entities
 
 Weak  entities:- None
 
