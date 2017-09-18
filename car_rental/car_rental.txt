@@ -5,9 +5,13 @@ Strong Entities:- Customer and Driver
 
 weak Entities:-cabs
 
+Because cab is existing without a driver and customer and driver can exist without a cab
+
+
 primary key for Customer:- customer_id
 
 primary key for cabs:-cab_no
 
 primary key for driver:- driver_id
+
 
