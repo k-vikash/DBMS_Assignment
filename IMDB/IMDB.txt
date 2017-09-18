@@ -7,7 +7,7 @@ Weak Entities:- Movie, TV series
 
 TV series and Movies has no exitence without an actor.
 
-TV series and Movies are weak entities and Actor is strong entities.
+TV series and Movies are weak entities and Actor is strong entities because actor can be exist without movies and TV series.
 
 primary key(Movies):- movie_id
 	       actor_id(foreign key)
