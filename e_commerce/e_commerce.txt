@@ -1,14 +1,15 @@
 Entities : Supplier, Customer, Items, Order
 
 
-Strong Entities:- Customer, Supplier, Items
+Strong Entities:- Customer, Supplier
 
-weak  Entities:- Order
+weak  Entities:- Order, items
 
-A order has no existence without supplier , items and customer
-so it is weak Entities.
+A order has no existence without supplier , items and customer.
+and also items are not existing without supplier.
+so these are weak Entities.
 
-Customer, Supplier and Items can exist individually. so these are strong entities.
+Customer and Supplier can exist individually. so these are strong entities.
 
 
 primary key(Supplier) :-supplier_id
