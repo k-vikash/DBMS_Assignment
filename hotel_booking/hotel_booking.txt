@@ -1,0 +1,9 @@
+Entities : Hotel, customer
+
+Strong entities:- Hotel, customer
+
+Weak  entities:- None
+
+primary key(Hotel):-hotel_id
+
+primary key(customer):- customer_id

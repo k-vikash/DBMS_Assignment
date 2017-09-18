@@ -1,0 +1,18 @@
+Entities : Accounts, Customer, Branches
+
+
+Strong entities:- Customer and Branches
+
+weak entities:- Accounts
+
+An account will not be exist without customer and branch but 
+
+a branch can be without customer and a customer can exist without brach and account.
+
+
+primary key(accounts) :-account_no
+                       :-branch_code(foreign key)
+
+primary key(branch) : brach_code 
+
+primary key(Customer) : customer_id

@@ -1,0 +1,13 @@
+
+Entities : Cabs, Customer, Driver.
+
+Strong Entities:- Customer and Driver
+
+weak Entities:-cabs
+
+primary key for Customer:- customer_id
+
+primary key for cabs:-cab_no
+
+primary key for driver:- driver_id
+

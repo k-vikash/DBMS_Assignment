@@ -1,0 +1,10 @@
+Entities : Train, Ticket, Customer
+
+Strong Entities:-Customer, train
+
+weak Entities:- Ticket
+
+
+Primary key (Customer):- customer_id
+primary key(ticket):- ticket_no
+primary key (train):- train_no

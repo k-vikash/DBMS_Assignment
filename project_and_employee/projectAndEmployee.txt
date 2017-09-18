@@ -1,0 +1,9 @@
+
+Entities : Employees, Projects
+
+Weak Entities:- projects
+primary key:-project_id
+
+Strong Entities:- Employee
+primary key:-employee_id and 
+foreign key:- project_id

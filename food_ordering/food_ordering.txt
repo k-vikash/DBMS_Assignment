@@ -1,0 +1,14 @@
+Entities : Restaurant, Delivery person, Order, Customer
+
+strong entities:- Restaurant, Delivery person,Customer
+
+weak entities:-Order
+
+primary key(Restaurant):- resturant_id
+
+primary key(Delivery person):-person_id
+
+primary key(Customer):- customer_id
+
+primary key(order):- order_id
+	foreign key:- customer_id, returant_id and delivery_person
